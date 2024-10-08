@@ -1,0 +1,24 @@
+{
+  "name": "Proven Certificate",
+  "description": "Proven Authentic All Models, Based on Glide Protocol XP",
+  "image": "ipfs://bafybeihvaunlfbdyh5i4w2vsq4hw4mumjhf77mcss3bs5birac2tvwptdq/0.png",
+  "external_url": "https://authentic-data.glideprotocol.xyz",
+  "attributes": [
+    {
+      "trait_type": "Username",
+      "value": "username_client"
+    },
+    {
+      "trait_type": "Email",
+      "value": "email_user@domain.com"
+    },
+    {
+      "trait_type": "Cryptographic",
+      "value": "SHA-256"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Universal"
+    }
+  ]
+}
